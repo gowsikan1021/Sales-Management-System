@@ -14,3 +14,5 @@ Good understanding of KPIs and business metrics for performance tracking and dec
 Analyzing flaws and finding trends
 
 ![image alt](https://github.com/gowsikan1021/Sales-Management-System/blob/acd582ce38a028128f13943e51933299ba81b58f/Sales%20Data.png)
+
+Working with complex tasks to enhance the profit
