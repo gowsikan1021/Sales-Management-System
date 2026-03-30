@@ -10,3 +10,7 @@ I used knowledge of ETL processes including data extraction, transformation, and
 Good understanding of KPIs and business metrics for performance tracking and decision-making.
 
 ![image alt](https://github.com/gowsikan1021/Sales-Management-System/blob/1cd3a4614a102ce84ead3708a4ff7f158b08bdc4/Homepage.png)
+
+Analyzing flaws and finding trends
+
+![image alt](https://github.com/gowsikan1021/Sales-Management-System/blob/acd582ce38a028128f13943e51933299ba81b58f/Sales%20Data.png)
